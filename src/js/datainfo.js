@@ -63,7 +63,7 @@ function extractData(data) {
         var commentHTML= `
                   <div class="outerbox">
                     <p class="fa ${separate.icon} aria-hidden="true">
-                      <textarea type="${separate.type}"  cols="55" rows="5" placeholder="${separate.label}"></textarea>
+                      <textarea type="${separate.type}"  cols="75" rows="5" placeholder="${separate.label}"></textarea>
                     </p>
                   </div>
                   `;
